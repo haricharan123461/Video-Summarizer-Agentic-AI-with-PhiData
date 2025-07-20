@@ -1,0 +1,6 @@
+phidata
+python-dotenv
+duckduckgo-search
+packaging
+psycopg[binary]
+google-generativeai
